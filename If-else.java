@@ -1,4 +1,4 @@
-Given an integer, , perform the following conditional actions:
+/*Given an integer, , perform the following conditional actions:
 If  is odd, print Weird
 If  is even and in the inclusive range of  to , print Not Weird
 If  is even and in the inclusive range of  to , print Weird
@@ -22,7 +22,7 @@ Explanation
 Sample Case 0:  
  is odd and odd numbers are weird, so we print Weird.
 Sample Case 1:  
- and  is even, so it isn't weird. Thus, we print Not Weird.
+ and  is even, so it isn't weird. Thus, we print Not Weird.*/
 
 SOLUTION:
 import java.util.*;
